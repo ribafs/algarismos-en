@@ -10,4 +10,5 @@ Em geral se fala números, quando quer dizer algarismos. Como gosto da matemáti
 
 ## Todo
 
-Ocultar as bordas ao pressionar uma tecla de erro.
+- Ocultar as bordas ao pressionar uma tecla de erro.
+- Usar o Monaca (https://monaca.io/) para gerar os binários para mobile
