@@ -2,11 +2,13 @@
 
 ## Dica de português e de matemática
 
-Em geral se fala números, quando quer dizer algarismos. Como gosto da matemática e do português, parece que quando falamos dos dígitos de 0 a 9, devemos dizer algarismos.
+Ao pressionar uma tecla de algarismo, ele é mostrado grande no centro da tela, sempre em uma cor diferente e com seu respectivo áudio
 
-## Mostra os algarismos na tela, um a um, para cada tecla pressionada
+## Erro
 
-## Quando se pressiona qualquer tecla diferente de um algarismo, aparece um áudio indicando um erro.
+Quando se pressiona qualquer tecla diferente de um algarismo, aparece um áudio indicando um erro.
+
+A força aqui é do Javascript.
 
 ## Todo
 
