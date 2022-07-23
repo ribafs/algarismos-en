@@ -20,3 +20,19 @@ A força aqui é do Javascript.
 - Usar o Monaca (https://monaca.io/) para gerar os binários para mobile
 
 ## Sugestões e forkes são bem vindos
+
+## Referências
+
+https://github.com/ribafs/alfabeto-pt
+
+https://github.com/ribafs/algarismos-pt
+
+https://github.com/ribafs/alfabeto-en
+
+https://github.com/ribafs/algarismos-en
+
+https://js13kgames.com/
+
+## Licença
+
+Fique bem à vontade
