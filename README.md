@@ -13,4 +13,10 @@ A força aqui é do Javascript.
 ## Todo
 
 - Ocultar as bordas ao pressionar uma tecla de erro.
+- Tonar responsivo
+- Trocar fonte de letras por bonitas imagens
+- Usar bonitas animações
+- ...
 - Usar o Monaca (https://monaca.io/) para gerar os binários para mobile
+
+## Sugestões e forkes são bem vindos
